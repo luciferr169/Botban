@@ -28,16 +28,6 @@
             "value": "",
             "required": true
         },
-        "API_ID": {
-            "description": "Get from https://my.telegram.org",
-            "value": "",
-            "required": true
-        },
-        "API_HASH": {
-            "description": "Get from https://my.telegram.org",
-            "value": "",
-            "required": true
-        },
         "SUDO": {
             "description": "sudo ids here.",
             "value": "",
