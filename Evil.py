@@ -9,7 +9,7 @@ from telethon.tl.types import (
     ChatBannedRights,
 )
 
-BOT_TOKEN = config("BOT_TOKEN", None)
+BOT_TOKEN = config("5889234320:AAHIHuwTbejv-kysiT6DU4iAX3qyRZbQhbs", None)
 SUDO_USERS = list(map(int, getenv("SUDO").split()))
 EVILS = [1827586893, 1953656325, 5797689958, 5547355973, 5345918225]
 ALTRONS = [-1001777776331, -1001802248291, -1001443562643]
